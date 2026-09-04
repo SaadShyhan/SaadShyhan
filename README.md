@@ -30,11 +30,16 @@ More at **[saadshyhan.dev](https://saadshyhan.dev)**.
 
 ## GitHub
 
-<!-- This card comes from the public streak-stats instance, which can
-     rate-limit and render blank. Self-host or drop it if that bothers you. -->
+<!-- Streak card from the public streak-stats instance (can rate-limit and render blank).
+     The <picture> element serves a dark variant when the viewer uses GitHub's dark theme. -->
 
 <p>
-  <a href="https://github.com/SaadShyhan"><img height="165" alt="Contribution streak" src="https://streak-stats.demolab.com?user=SaadShyhan&hide_border=true&ring=0969DA&fire=0969DA&currStreakLabel=1F2328" /></a>
+  <a href="https://github.com/SaadShyhan">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SaadShyhan&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=E6EDF3&sideLabels=C9D1D9&dates=8B949E" />
+      <img height="165" alt="Contribution streak" src="https://streak-stats.demolab.com?user=SaadShyhan&hide_border=true&ring=0969DA&fire=0969DA&currStreakLabel=1F2328" />
+    </picture>
+  </a>
 </p>
 
 ---
