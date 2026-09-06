@@ -42,6 +42,8 @@ More at **[saadshyhan.dev](https://saadshyhan.dev)**.
   </a>
 </p>
 
+[![committers.top badge](https://user-badge.committers.top/iraq_private/SaadShyhan.svg)](https://user-badge.committers.top/iraq_private/SaadShyhan)
+
 ---
 
 **[View resume](https://saadshyhan.dev/resume)** · Based in Baghdad (UTC+3), overlapping European and U.S.-morning hours. I usually reply within one business day.
